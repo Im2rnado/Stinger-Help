@@ -48,7 +48,7 @@ If you're interested in helping us, contact [Tornado](https://twitter.com/im2rna
 You can check out our guide on how to get started at [#get-started](https://discord.com/channels/743594467277406458/743596016980459661) or use +help to get a full list of all commands!
 
 # Stinger - Premium Commands
-The standard command prefix is `+`\
+The standard command prefix is `+`
 
 ## Account
 ### Login

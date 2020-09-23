@@ -84,7 +84,6 @@ Returns information about your competitive history
 
 # Credits
 ## Contributers
- * [Me](https://twitter.com/im2rnadoo)
  * [Sprayxe](https://twitter.com/Sprayxe_)
  * [Speeedyyyy](https://twitter.com/Speeedyyyytv)
  * [RumbleMike](https://twitter.com/RumbleMikee)

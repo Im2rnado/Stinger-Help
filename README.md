@@ -11,7 +11,7 @@
 
 # About
 
-**Stinger** is a simple **Discord Bot** that let's you login to your Valorant account and access 15+ commands!
+**Stinger** is a **Discord Bot** made by [Tornado](https://twitter.com/im2rnadoo) that let's you login to your Valorant account and access 15+ commands!
 
 # Features
 
@@ -87,10 +87,11 @@ Aliases: `+comp`\
 Returns information about your competitive history
 
 # Credits
-## People
+## Contributers
+ * [Me](https://twitter.com/im2rnadoo)
  * [Sprayxe](https://twitter.com/Sprayxe_)
  * [Speeedyyyy](https://twitter.com/Speeedyyyytv)
- * [tb24](https://twitter.com/amrsatrio)
+ * [RumbleMike](https://twitter.com/RumbleMikee)
 ## Libraries
  * [discord.js](https://discord.js.org/#/)
  * [Axios](https://github.com/axios/axios)

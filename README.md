@@ -39,10 +39,6 @@ Stinger costs $5 and can be purchased from [Tornado](https://twitter.com/im2rnad
   </ol>
 </details>
 
-# Contributing
-
-If you're interested in helping us, contact [Tornado](https://twitter.com/im2rnadoo).
-
 # I purchased Stinger, what's next?
 
 You can check out our guide on how to get started at [#get-started](https://discord.com/channels/743594467277406458/743596016980459661) or use +help to get a full list of all commands!

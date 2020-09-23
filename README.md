@@ -47,6 +47,54 @@ If you're interested in helping us, contact [Tornado](https://twitter.com/im2rna
 
 You can check out our guide on how to get started at [#get-started](https://discord.com/channels/743594467277406458/743596016980459661) or use +help to get a full list of all commands!
 
+# Stinger - Premium Commands
+The standard command prefix is `+`\
+
+## Account
+### Login
+Command: `+login`\
+Aliases: `+signin`, `+i`\
+Logs into your account.
+### Logout
+Command: `+logout`\
+Aliases: `+signout`\
+Logs out of your account
+### Balance
+Command: `+balance`\
+Aliases: `+bal`\
+Returns your Valorant Points and Radianite Points
+### Shop
+Command: `+shop `\
+Aliases: `+store`\
+Returns your Daily and Featured Shop
+### Story Contract
+Command: `+story`\
+Aliases: `+contract`\
+Returns your current progress in your Story Contract
+### Inventory
+Command: `+inventory`\
+Returns your current inventory
+## Competitive
+### Rank
+Command: `+rank`\
+Returns your Valorant competitive rank
+### Match History
+Command: `+history`\
+Returns information about your last matches
+### Competitive History
+Command: `+competitive`\
+Aliases: `+comp`\
+Returns information about your competitive history
+
+# Credits
+## People
+ * [Sprayxe](https://twitter.com/Sprayxe_)
+ * [Speeedyyyy](https://twitter.com/Speeedyyyytv)
+ * [tb24](https://twitter.com/amrsatrio)
+## Libraries
+ * [discord.js](https://discord.js.org/#/)
+ * [Axios](https://github.com/axios/axios)
+ * [SQLite](https://www.sqlite.org/)
 
 
-##### This project is *NOT* affiliated, authorized, endorsed by, or in any way related to Riot Games.
+####### This project is *NOT* affiliated, authorized, endorsed by, or in any way related to Riot Games.

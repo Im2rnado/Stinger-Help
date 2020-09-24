@@ -93,4 +93,4 @@ Returns information about your competitive history
  * [SQLite](https://www.sqlite.org/)
 
 
-##### This project is **NOT** affiliated, authorized, endorsed by, or in any way related to Riot Games.
+This project is **NOT** affiliated, authorized, endorsed by, or in any way related to Riot Games.

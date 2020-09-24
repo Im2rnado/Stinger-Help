@@ -57,11 +57,11 @@ Aliases: `+signout`\
 Logs out of your account
 ### Balance
 Command: `+balance`\
-Aliases: `+bal`\
+Aliases: `+bal`, `points`\
 Returns your Valorant Points and Radianite Points
 ### Shop
 Command: `+shop `\
-Aliases: `+store`\
+Aliases: `+store`, `st`\
 Returns your Daily and Featured Shop
 ### Story Contract
 Command: `+story`\

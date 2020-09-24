@@ -2,7 +2,7 @@
 
 # <img src="https://cdn.publish0x.com/prod/fs/images/6ac0ff5feb2e723eaa18dace82b96ab9aca5ed93038ad2d739f3d58132cc3bed.png" width="55px" draggable="false"><b> </b>Stinger &middot; Discord Bot
 
-### ![version](https://img.shields.io/badge/Version-3.0-brightgreen.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/743594467277406458.svg?style=for-the-badge)](https://discord.gg/hKpcjhK)
+### ![version](https://img.shields.io/badge/Version-3.0.1-brightgreen.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/743594467277406458.svg?style=for-the-badge)](https://discord.gg/hKpcjhK)
 
 <a target="_blank" href="https://discord.gg/hKpcjhK" title="Join our Discord!">
 <img draggable="false" src="https://discordapp.com/api/guilds/743594467277406458/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
@@ -26,7 +26,7 @@
 - Show your Daily Shop
 - And tons of more features that get added frequently!
 
-# Is it free?
+# Price
 
 Stinger costs $5 and can be purchased from [Tornado](https://twitter.com/im2rnadoo) but there are also several ways to obtain Premium access to the bot. You can win giveaways which we constantly do or if you contribute to the bot, you get free access!
 <details>

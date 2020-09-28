@@ -9,8 +9,6 @@
 </a>
 </div>
 
-[Skip to commands](https://github.com/Im2rnado/Stinger-Help/blob/master/README.md#stinger---premium-commands)
-
 # About
 
 **Stinger** is a **Discord Bot** made by [Tornado](https://twitter.com/im2rnadoo) that let's you login to your Valorant account and access 15+ commands!
@@ -41,7 +39,7 @@ Stinger costs $5 and can be purchased from [Tornado](https://twitter.com/im2rnad
   </ol>
 </details>
 
-# I purchased Stinger, what's next?
+# Getting Started
 
 You can check out our guide on how to get started at [#get-started](https://discord.com/channels/743594467277406458/743596016980459661) or use +help to get a full list of all commands!
 

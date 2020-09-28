@@ -9,6 +9,8 @@
 </a>
 </div>
 
+[Skip to commands](https://github.com/Im2rnado/Stinger-Help/blob/master/README.md#stinger---premium-commands)
+
 # About
 
 **Stinger** is a **Discord Bot** made by [Tornado](https://twitter.com/im2rnadoo) that let's you login to your Valorant account and access 15+ commands!
@@ -48,35 +50,46 @@ The standard command prefix is `+`
 
 ## Account
 ### Login
-Command: `+login`\
+Command: `+login *<username> <password>*`\
 Aliases: `+signin`, `+i`\
-Logs into your account.
+Logs into your Valorant account.
+
+Example:
+* `+login im2rnado 1234567`
+
 ### Logout
 Command: `+logout`\
 Aliases: `+signout`\
 Logs out of your account
+
 ### Balance
 Command: `+balance`\
 Aliases: `+bal`, `points`\
 Returns your Valorant Points and Radianite Points
+
 ### Shop
 Command: `+shop `\
 Aliases: `+store`, `st`\
 Returns your Daily and Featured Shop
+
 ### Story Contract
 Command: `+story`\
 Aliases: `+contract`\
 Returns your current progress in your Story Contract
+
 ### Inventory
 Command: `+inventory`\
 Returns your current inventory
+
 ## Competitive
 ### Rank
 Command: `+rank`\
 Returns your Valorant competitive rank
+
 ### Match History
 Command: `+history`\
 Returns information about your last matches
+
 ### Competitive History
 Command: `+competitive`\
 Aliases: `+comp`\

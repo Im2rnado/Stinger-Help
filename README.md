@@ -54,8 +54,8 @@ Example:
 
 ### Logout
 Command: `+logout`\
-Aliases: `+signout`\
-Logs out of your account
+Aliases: `+signout`, `+o`\
+Logs out of your Valorant account
 
 ### Balance
 Command: `+balance`\
@@ -93,7 +93,7 @@ Returns information about your competitive history
 # Credits
 ## Contributers
  * [Sprayxe](https://twitter.com/Sprayxe_)
- * [Speeedyyyy](https://twitter.com/Speeedyyyytv)
+ * [Speeedyyy](https://twitter.com/Speeedyyyytv)
  * [RumbleMike](https://twitter.com/RumbleMikee)
 ## Libraries
  * [discord.js](https://discord.js.org/#/)

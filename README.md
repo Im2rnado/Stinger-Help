@@ -45,7 +45,7 @@ The standard command prefix is `+`
 
 ## Account
 ### Login
-Command: `+login` *<username> <password>*\
+Command: `+login <username> <password>`\
 Aliases: `+signin`, `+i`\
 Logs into your Valorant account.
 
